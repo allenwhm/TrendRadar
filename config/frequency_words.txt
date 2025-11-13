@@ -1,5 +1,9 @@
 ai
 AI
 GenAI
+LLM
 人工智能
 机器学习
+MLOps
+RAG
+AI Agent
